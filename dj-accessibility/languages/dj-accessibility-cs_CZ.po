@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DJ-Accessibility Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-05 13:53+0000\n"
+"PO-Revision-Date: 2022-05-26 10:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-6.0\n"
+"X-Domain: dj-accessibility"
+
+#. Description of the plugin
+msgid "Accessibility plugin for WordPress"
+msgstr "Plugin Accessibility WordPress"
+
+#: tmpl/default.php:25
+msgid "Accessibility Tools"
+msgstr "Nástroje pro usnadnění přístupu"
+
+#: helpers/options.php:280
+msgid "Add image"
+msgstr "přidání obrázku"
+
+#: helpers/options.php:131 helpers/options.php:152 helpers/options.php:187
+msgid "bottom"
+msgstr "Dole"
+
+#: helpers/options.php:132 helpers/options.php:188
+msgid "bottom left"
+msgstr "Dole, vlevo"
+
+#: helpers/options.php:133 helpers/options.php:189
+msgid "bottom right"
+msgstr "Dole, vpravo"
+
+#: helpers/options.php:276
+msgid "Button"
+msgstr "Tlačítko"
+
+#: helpers/options.php:315
+msgid "Button height"
+msgstr "Výška tlačítka"
+
+#: helpers/options.php:300
+msgid "Button width"
+msgstr "Šířka tlačítka"
+
+#: helpers/options.php:98
+msgid "Choose the direction where the popup will open."
+msgstr "Zvolte směr, kterým se vyskakovací okno otevře."
+
+#: helpers/options.php:202
+msgid "Choose whether the toolbar should cover the page or not."
+msgstr "Zvolte, zda má panel nástrojů zakrývat stránku, nebo ne."
+
+#: tmpl/default.php:31
+msgid "Close accessibility tools"
+msgstr "Zavřít nástroj pro usnadnění přístupu"
+
+#: tmpl/default.php:173 tmpl/toolbar.php:165
+msgid "Content scaling"
+msgstr "Škálování obsahu"
+
+#: tmpl/toolbar.php:12
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: helpers/options.php:62
+msgid "Custom position (static)"
+msgstr "Vlastní pozice (statická)"
+
+#: helpers/options.php:91
+msgid "Dark"
+msgstr "Temný"
+
+#: tmpl/default.php:69 tmpl/default.php:73 tmpl/toolbar.php:41 
+#: tmpl/toolbar.php:45
+msgid "Dark contrast"
+msgstr "Temný kontrast"
+
+#: tmpl/default.php:176 tmpl/toolbar.php:147
+msgid "Decrease content size"
+msgstr "Zmenšení velikosti obsahu"
+
+#: tmpl/default.php:198 tmpl/toolbar.php:178
+msgid "Decrease font size"
+msgstr "Zmenšení velikosti písma"
+
+#: tmpl/default.php:242 tmpl/toolbar.php:234
+msgid "Decrease letter spacing"
+msgstr "Zmenšení prostoru pro písmena"
+
+#: tmpl/default.php:220 tmpl/toolbar.php:201
+msgid "Decrease line height"
+msgstr "Snížení výšky řádku"
+
+#: helpers/options.php:28 helpers/helper.php:19
+msgid "DJ-Accessibility"
+msgstr "DJ-Accessibility"
+
+#. Name of the plugin
+msgid "DJ-Accessibility Pro"
+msgstr "DJ-Accessibility Pro"
+
+#. Author of the plugin
+msgid "DJ-Extensions.com"
+msgstr "DJ-Extensions.com"
+
+#: helpers/options.php:103
+msgid "down"
+msgstr "Dolů "
+
+#: helpers/options.php:104
+msgid "down left"
+msgstr "Dolů, doprava"
+
+#: helpers/options.php:105
+msgid "down right"
+msgstr "Dolů, doprava"
+
+#: tmpl/default.php:195 tmpl/toolbar.php:188
+msgid "Font size"
+msgstr "Velikost písma"
+
+#: tmpl/default.php:109 tmpl/default.php:117 tmpl/toolbar.php:81 
+#: tmpl/toolbar.php:89
+msgid "High saturation"
+msgstr "Vysoké nasycení"
+
+#: tmpl/default.php:130 tmpl/default.php:142 tmpl/toolbar.php:103 
+#: tmpl/toolbar.php:115
+msgid "Highlight headings"
+msgstr "Zvýraznění nadpisů"
+
+#: tmpl/default.php:121 tmpl/default.php:126 tmpl/toolbar.php:94 
+#: tmpl/toolbar.php:99
+msgid "Highlight links"
+msgstr "Zvýraznění odkazů"
+
+#. Author URI of the plugin
+msgid "https://dj-extensions.com"
+msgstr "https://dj-extensions.com"
+
+#. URI of the plugin
+msgid "https://dj-extensions.com/yootheme/dj-accessibility"
+msgstr "https://dj-extensions.com/yootheme/dj-accessibility"
+
+#: tmpl/default.php:183 tmpl/toolbar.php:166
+msgid "Increase content size"
+msgstr "Zvětšení velikosti obsahu"
+
+#: tmpl/default.php:205 tmpl/toolbar.php:189
+msgid "Increase font size"
+msgstr "Zvětšení velikosti písma"
+
+#: tmpl/default.php:249 tmpl/toolbar.php:253
+msgid "Increase letter spacing"
+msgstr "Zvětšení prostoru pro písmena"
+
+#: tmpl/default.php:227 tmpl/toolbar.php:222
+msgid "Increase line height"
+msgstr "Zvýšení výšky řádku"
+
+#: tmpl/default.php:42 tmpl/default.php:50 tmpl/toolbar.php:14 
+#: tmpl/toolbar.php:22
+msgid "Invert colors"
+msgstr "Inverzní barvy"
+
+#: includes/cmb2_license.php:140
+msgid "Key removed."
+msgstr "Licenční klíč byl odstraněn."
+
+#: includes/cmb2_license.php:136
+msgid "Key saved."
+msgstr "Licenční klíč uložen."
+
+#: helpers/options.php:78
+msgid "Layout"
+msgstr "Rozvržení"
+
+#: helpers/options.php:106 helpers/options.php:129 helpers/options.php:150 
+#: helpers/options.php:185
+msgid "left"
+msgstr "vlevo"
+
+#: tmpl/default.php:239 tmpl/toolbar.php:252
+msgid "Letter spacing"
+msgstr "Mezery mezi písmeny"
+
+#: helpers/options.php:35
+msgid "License key"
+msgstr "licenční klíč"
+
+#: helpers/options.php:92
+msgid "Light"
+msgstr "Světlý"
+
+#: tmpl/default.php:77 tmpl/default.php:92 tmpl/toolbar.php:49 
+#: tmpl/toolbar.php:64
+msgid "Light contrast"
+msgstr "Světlý kontrast"
+
+#: tmpl/default.php:217 tmpl/toolbar.php:221
+msgid "Line height"
+msgstr "Výška řádků"
+
+#: tmpl/default.php:97 tmpl/default.php:105 tmpl/toolbar.php:69 
+#: tmpl/toolbar.php:77
+msgid "Low saturation"
+msgstr "Nízké nasycení"
+
+#: helpers/options.php:176
+msgid "Mobile position"
+msgstr "Použití mobilní pozice"
+
+#: tmpl/default.php:54 tmpl/default.php:65 tmpl/toolbar.php:26 
+#: tmpl/toolbar.php:37
+msgid "Monochrome"
+msgstr "Jednobarevný"
+
+#: helpers/options.php:231 helpers/options.php:261
+msgid "Offset left/right"
+msgstr "Odsazení vlevo/vpravo"
+
+#: helpers/options.php:216 helpers/options.php:246
+msgid "Offset top/bottom"
+msgstr "Odsazení nahoře/dole"
+
+#: tmpl/default.php:13 tmpl/default.php:14 tmpl/default.php:17 
+#: tmpl/default.php:17
+msgid "Open accessibility tools"
+msgstr "Otevřené nástroje pro usnadnění přístupu"
+
+#: helpers/options.php:46
+msgid "Open Yootheme Accessibility options"
+msgstr "Otevřít možnosti zpřístupnění Yootheme"
+
+#: helpers/options.php:68 helpers/options.php:73
+msgid "Popup"
+msgstr "Vyskakovací okno"
+
+#: helpers/options.php:97
+msgid "Popup open direction"
+msgstr "Směr otevření vyskakovacího okna"
+
+#: helpers/options.php:121 helpers/options.php:144
+msgid "Position"
+msgstr "Pozice"
+
+#: helpers/options.php:56
+msgid ""
+"Position sticky means that the panel stays in the same place even if the "
+"page is scrolled. Custom position requires DJ-Accessibility widget or custom "
+"HTML code on the page:"
+msgstr ""
+"Pozice sticky znamená, že panel zůstane na stejném místě, i když se stránka "
+"posouvá. Vlastní pozice vyžaduje modul DJ-Accessibility nebo vlastní kód "
+"HTML na stránce:"
+
+#: helpers/options.php:55
+msgid "Position type"
+msgstr "Typ pozice"
+
+#: includes/cmb2_license.php:140
+msgid "Provide key."
+msgstr "Zde zadejte svůj licenční klíč, abyste získali aktualizace."
+
+#: tmpl/default.php:158 tmpl/default.php:168 tmpl/toolbar.php:131 
+#: tmpl/toolbar.php:141
+msgid "Read mode"
+msgstr "Režim čtení"
+
+#: helpers/options.php:201
+msgid "Reserve space"
+msgstr "Rezervovat prostor"
+
+#: tmpl/default.php:26 tmpl/toolbar.php:264 tmpl/toolbar.php:268
+msgid "Reset"
+msgstr "Obnovení"
+
+#: helpers/options.php:107 helpers/options.php:130 helpers/options.php:151 
+#: helpers/options.php:186
+msgid "right"
+msgstr "vpravo"
+
+#: includes/cmb2_license.php:40
+msgid "Save"
+msgstr "Uložení"
+
+#: tmpl/toolbar.php:144
+msgid "Scaling"
+msgstr "Škálování"
+
+#: tmpl/default.php:146 tmpl/default.php:154 tmpl/toolbar.php:119 
+#: tmpl/toolbar.php:127
+msgid "Screen reader"
+msgstr "Čtečka obrazovky"
+
+#: helpers/options.php:217 helpers/options.php:247
+msgid "Space above and below the panel."
+msgstr "Prostor nad a pod panelem."
+
+#: helpers/options.php:232 helpers/options.php:262
+msgid "Space to the left or right of the panel."
+msgstr "Prostor vlevo nebo vpravo od panelu."
+
+#: helpers/options.php:61
+msgid "Sticky (fixed)"
+msgstr "Přilepená (fixní)"
+
+#: tmpl/toolbar.php:92
+msgid "Text"
+msgstr "Text"
+
+#: helpers/options.php:177
+msgid "The panel position will be changed for mobile devices (< 767px)"
+msgstr "Pozice panelu se změní pro mobilní zařízení (< 767px)"
+
+#: helpers/options.php:86
+msgid "Theme"
+msgstr "Motiv"
+
+#: helpers/options.php:69
+msgid "Toolbar"
+msgstr "Panel nástrojů"
+
+#: helpers/options.php:126 helpers/options.php:149 helpers/options.php:182
+msgid "top"
+msgstr "Nahoře"
+
+#: helpers/options.php:127 helpers/options.php:183
+msgid "top left"
+msgstr "Nahoře, vlevo"
+
+#: helpers/options.php:128 helpers/options.php:184
+msgid "top right"
+msgstr "Nahoře, vpravo"
+
+#: helpers/options.php:108
+msgid "up"
+msgstr "Nahoru "
+
+#: helpers/options.php:109
+msgid "up left"
+msgstr "Nahoru, vlevo"
+
+#: helpers/options.php:110
+msgid "up right"
+msgstr "Nahoru, vpravo"
+
+#: helpers/options.php:163
+msgid "Use mobile position"
+msgstr "Použití mobilní pozice"

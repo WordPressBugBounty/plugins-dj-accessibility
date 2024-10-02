@@ -1,0 +1,1002 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 16:15+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dj-accessibility/helpers/helper.php:11
+#: dj-accessibility/helpers/options.php:24
+msgid "DJ-Accessibility"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:63
+msgid "Sticky (fixed)"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:64
+msgid "Custom position (static)"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:70
+#: dj-accessibility/helpers/options.php:75
+msgid "Popup"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:71
+msgid "Toolbar"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:95
+msgid "Dark"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:96
+msgid "Light"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:107
+msgid "down"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:108
+msgid "down left"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:109
+msgid "down right"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:110
+#: dj-accessibility/helpers/options.php:134
+#: dj-accessibility/helpers/options.php:156
+#: dj-accessibility/helpers/options.php:192
+msgid "left"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:111
+#: dj-accessibility/helpers/options.php:135
+#: dj-accessibility/helpers/options.php:157
+#: dj-accessibility/helpers/options.php:193
+msgid "right"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:112
+msgid "up"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:113
+msgid "up left"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:114
+msgid "up right"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:131
+#: dj-accessibility/helpers/options.php:155
+#: dj-accessibility/helpers/options.php:189
+msgid "top"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:132
+#: dj-accessibility/helpers/options.php:190
+msgid "top left"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:133
+#: dj-accessibility/helpers/options.php:191
+msgid "top right"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:136
+#: dj-accessibility/helpers/options.php:158
+#: dj-accessibility/helpers/options.php:194
+msgid "bottom"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:137
+#: dj-accessibility/helpers/options.php:195
+msgid "bottom left"
+msgstr ""
+
+#: dj-accessibility/helpers/options.php:138
+#: dj-accessibility/helpers/options.php:196
+msgid "bottom right"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2_license.php:39
+#: dj-accessibility/includes/cmb2/includes/helper-functions.php:308
+msgid "Save"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2_license.php:135
+msgid "Key saved."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2_license.php:139
+msgid "Key removed."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2_license.php:139
+msgid "Provide key."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:115
+msgid "Test Metabox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:148
+#: dj-accessibility/includes/cmb2/example-functions.php:492
+msgid "Test Text"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:149
+#: dj-accessibility/includes/cmb2/example-functions.php:162
+#: dj-accessibility/includes/cmb2/example-functions.php:175
+#: dj-accessibility/includes/cmb2/example-functions.php:182
+#: dj-accessibility/includes/cmb2/example-functions.php:195
+#: dj-accessibility/includes/cmb2/example-functions.php:203
+#: dj-accessibility/includes/cmb2/example-functions.php:212
+#: dj-accessibility/includes/cmb2/example-functions.php:220
+#: dj-accessibility/includes/cmb2/example-functions.php:235
+#: dj-accessibility/includes/cmb2/example-functions.php:243
+#: dj-accessibility/includes/cmb2/example-functions.php:251
+#: dj-accessibility/includes/cmb2/example-functions.php:268
+#: dj-accessibility/includes/cmb2/example-functions.php:277
+#: dj-accessibility/includes/cmb2/example-functions.php:293
+#: dj-accessibility/includes/cmb2/example-functions.php:300
+#: dj-accessibility/includes/cmb2/example-functions.php:307
+#: dj-accessibility/includes/cmb2/example-functions.php:332
+#: dj-accessibility/includes/cmb2/example-functions.php:345
+#: dj-accessibility/includes/cmb2/example-functions.php:358
+#: dj-accessibility/includes/cmb2/example-functions.php:370
+#: dj-accessibility/includes/cmb2/example-functions.php:384
+#: dj-accessibility/includes/cmb2/example-functions.php:392
+#: dj-accessibility/includes/cmb2/example-functions.php:401
+#: dj-accessibility/includes/cmb2/example-functions.php:408
+#: dj-accessibility/includes/cmb2/example-functions.php:422
+#: dj-accessibility/includes/cmb2/example-functions.php:493
+#: dj-accessibility/includes/cmb2/example-functions.php:583
+#: dj-accessibility/includes/cmb2/example-functions.php:591
+#: dj-accessibility/includes/cmb2/example-functions.php:598
+#: dj-accessibility/includes/cmb2/example-functions.php:605
+#: dj-accessibility/includes/cmb2/example-functions.php:612
+#: dj-accessibility/includes/cmb2/example-functions.php:619
+#: dj-accessibility/includes/cmb2/example-functions.php:626
+#: dj-accessibility/includes/cmb2/example-functions.php:652
+#: dj-accessibility/includes/cmb2/example-functions.php:660
+#: dj-accessibility/includes/cmb2/example-functions.php:667
+#: dj-accessibility/includes/cmb2/example-functions.php:717
+msgid "field description (optional)"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:161
+msgid "Test Text Small"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:174
+msgid "Test Text Medium"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:181
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:185
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:194
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:202
+msgid "Website URL"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:211
+msgid "Test Text Email"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:219
+msgid "Test Time"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:227
+#: dj-accessibility/includes/cmb2/example-functions.php:228
+msgid "Time zone"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:234
+msgid "Test Date Picker"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:242
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:250
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:267
+msgid "Test Money"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:276
+msgid "Test Color Picker"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:292
+msgid "Test Text Area"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:299
+msgid "Test Text Area Small"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:306
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:324
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:325
+msgid "This is a title description"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:331
+msgid "Test Select"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:337
+#: dj-accessibility/includes/cmb2/example-functions.php:350
+#: dj-accessibility/includes/cmb2/example-functions.php:362
+msgid "Option One"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:338
+#: dj-accessibility/includes/cmb2/example-functions.php:351
+#: dj-accessibility/includes/cmb2/example-functions.php:363
+msgid "Option Two"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:339
+#: dj-accessibility/includes/cmb2/example-functions.php:352
+#: dj-accessibility/includes/cmb2/example-functions.php:364
+msgid "Option Three"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:344
+msgid "Test Radio inline"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:357
+msgid "Test Radio"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:369
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:383
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:391
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:400
+msgid "Test Checkbox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:407
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:413
+msgid "Check One"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:414
+msgid "Check Two"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:415
+msgid "Check Three"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:421
+msgid "Test wysiwyg"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:431
+msgid "Test Image"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:432
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:438
+msgid "Multiple Files"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:439
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:446
+msgid "oEmbed"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:449
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:481
+msgid "About Page Metabox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:511
+msgid "Repeating Field Group"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:519
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:521
+msgid "Entry {#}"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:522
+msgid "Add Another Entry"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:523
+msgid "Remove Entry"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:537
+msgid "Entry Title"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:544
+msgid "Description"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:545
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:551
+msgid "Entry Image"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:557
+msgid "Image Caption"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:582
+#: dj-accessibility/includes/cmb2/example-functions.php:651
+msgid "Extra Info"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:625
+msgid "User Field"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:644
+msgid "Category Metabox"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:659
+msgid "Term Image"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:666
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:685
+msgid "Theme Options"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:785
+msgid "REST Test Box"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:794
+msgid "REST Test Text"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:795
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:801
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/example-functions.php:802
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2.php:618
+msgid "Click to toggle"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Ajax.php:189
+#: dj-accessibility/includes/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Base.php:423
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Base.php:427
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Base.php:457
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Base.php:459
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Base.php:492
+#: dj-accessibility/includes/cmb2/includes/CMB2_Hookup_Base.php:102
+#: dj-accessibility/includes/cmb2/includes/CMB2_Options.php:247
+#: dj-accessibility/includes/cmb2/includes/CMB2_Options_Hookup.php:369
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Base.php:510
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Field.php:1438
+msgid "Add Group"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Field.php:1439
+msgid "Remove Group"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Field.php:1471
+#: dj-accessibility/includes/cmb2/includes/CMB2_Field.php:1475
+msgid "None"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Field.php:1589
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Field_Display.php:453
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:242
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_File_Base.php:90
+msgid "File:"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Hookup.php:188
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Hookup.php:192
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Hookup.php:560
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:177
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:222
+msgid "Clear"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:178
+msgid "Default"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:179
+msgid "Select Color"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:180
+msgid "Current Color"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:212
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:213
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:214
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:215
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:216
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:217
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:218
+msgid "Next"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:219
+msgid "Prev"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:220
+msgid "Today"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:221
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:231
+msgid "Done"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:225
+msgid "Choose Time"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:226
+msgid "Time"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:227
+msgid "Hour"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:228
+msgid "Minute"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:229
+msgid "Second"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:230
+msgid "Now"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:232
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:238
+msgid "Use this file"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:239
+msgid "Use these files"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:240
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:241
+#: dj-accessibility/includes/cmb2/includes/CMB2_Types.php:408
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_File_Base.php:95
+msgid "Remove"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:243
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_File_Base.php:93
+msgid "Download"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_JS.php:244
+msgid "Select / Deselect All"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/CMB2_Types.php:408
+msgid "Remove Row"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:35
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:47
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:59
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:71
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:83
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:95
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:107
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:119
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:131
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:143
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:155
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Counter_Base.php:50
+msgid "Words left"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Counter_Base.php:51
+msgid "Words"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Counter_Base.php:56
+msgid "Characters left"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Counter_Base.php:57
+msgid "Characters"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Counter_Base.php:62
+msgid "Your text may be truncated."
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: dj-accessibility/includes/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:13 dj-accessibility/tmpl/default.php:14
+#: dj-accessibility/tmpl/default.php:17
+msgid "Open accessibility tools"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:25
+msgid "Accessibility Tools"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:26 dj-accessibility/tmpl/toolbar.php:264
+#: dj-accessibility/tmpl/toolbar.php:268
+msgid "Reset"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:31
+msgid "Close accessibility tools"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:42 dj-accessibility/tmpl/default.php:50
+#: dj-accessibility/tmpl/toolbar.php:14 dj-accessibility/tmpl/toolbar.php:22
+msgid "Invert colors"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:54 dj-accessibility/tmpl/default.php:65
+#: dj-accessibility/tmpl/toolbar.php:26 dj-accessibility/tmpl/toolbar.php:37
+msgid "Monochrome"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:69 dj-accessibility/tmpl/default.php:73
+#: dj-accessibility/tmpl/toolbar.php:41 dj-accessibility/tmpl/toolbar.php:45
+msgid "Dark contrast"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:77 dj-accessibility/tmpl/default.php:92
+#: dj-accessibility/tmpl/toolbar.php:49 dj-accessibility/tmpl/toolbar.php:64
+msgid "Light contrast"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:97 dj-accessibility/tmpl/default.php:105
+#: dj-accessibility/tmpl/toolbar.php:69 dj-accessibility/tmpl/toolbar.php:77
+msgid "Low saturation"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:109 dj-accessibility/tmpl/default.php:117
+#: dj-accessibility/tmpl/toolbar.php:81 dj-accessibility/tmpl/toolbar.php:89
+msgid "High saturation"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:121 dj-accessibility/tmpl/default.php:126
+#: dj-accessibility/tmpl/toolbar.php:94 dj-accessibility/tmpl/toolbar.php:99
+msgid "Highlight links"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:130 dj-accessibility/tmpl/default.php:142
+#: dj-accessibility/tmpl/toolbar.php:103 dj-accessibility/tmpl/toolbar.php:115
+msgid "Highlight headings"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:146 dj-accessibility/tmpl/default.php:154
+#: dj-accessibility/tmpl/toolbar.php:119 dj-accessibility/tmpl/toolbar.php:127
+msgid "Screen reader"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:158 dj-accessibility/tmpl/default.php:168
+#: dj-accessibility/tmpl/toolbar.php:131 dj-accessibility/tmpl/toolbar.php:141
+msgid "Read mode"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:173 dj-accessibility/tmpl/toolbar.php:165
+msgid "Content scaling"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:176 dj-accessibility/tmpl/toolbar.php:147
+msgid "Decrease content size"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:183 dj-accessibility/tmpl/toolbar.php:166
+msgid "Increase content size"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:195 dj-accessibility/tmpl/toolbar.php:188
+msgid "Font size"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:198 dj-accessibility/tmpl/toolbar.php:178
+msgid "Decrease font size"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:205 dj-accessibility/tmpl/toolbar.php:189
+msgid "Increase font size"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:217 dj-accessibility/tmpl/toolbar.php:221
+msgid "Line height"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:220 dj-accessibility/tmpl/toolbar.php:201
+msgid "Decrease line height"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:227 dj-accessibility/tmpl/toolbar.php:222
+msgid "Increase line height"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:239 dj-accessibility/tmpl/toolbar.php:252
+msgid "Letter spacing"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:242 dj-accessibility/tmpl/toolbar.php:234
+msgid "Decrease letter spacing"
+msgstr ""
+
+#: dj-accessibility/tmpl/default.php:249 dj-accessibility/tmpl/toolbar.php:253
+msgid "Increase letter spacing"
+msgstr ""
+
+#: dj-accessibility/tmpl/toolbar.php:12
+msgid "Contrast"
+msgstr ""
+
+#: dj-accessibility/tmpl/toolbar.php:92
+msgid "Text"
+msgstr ""
+
+#: dj-accessibility/tmpl/toolbar.php:144
+msgid "Scaling"
+msgstr ""

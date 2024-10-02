@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DJ-Accessibility Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-05 13:53+0000\n"
+"PO-Revision-Date: 2022-05-26 10:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt-PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-6.0\n"
+"X-Domain: dj-accessibility"
+
+#. Description of the plugin
+msgid "Accessibility plugin for WordPress"
+msgstr "Plugin de acessibilidade para WordPress"
+
+#: tmpl/default.php:25
+msgid "Accessibility Tools"
+msgstr "Instrumentos de acessibilidade"
+
+#: helpers/options.php:280
+msgid "Add image"
+msgstr "adicionar imagem"
+
+#: helpers/options.php:131 helpers/options.php:152 helpers/options.php:187
+msgid "bottom"
+msgstr "Inferior"
+
+#: helpers/options.php:132 helpers/options.php:188
+msgid "bottom left"
+msgstr "Inferior, esquerda"
+
+#: helpers/options.php:133 helpers/options.php:189
+msgid "bottom right"
+msgstr "Inferior, direita"
+
+#: helpers/options.php:276
+msgid "Button"
+msgstr "Botão"
+
+#: helpers/options.php:315
+msgid "Button height"
+msgstr "Altura do botão"
+
+#: helpers/options.php:300
+msgid "Button width"
+msgstr "Largura do botão"
+
+#: helpers/options.php:98
+msgid "Choose the direction where the popup will open."
+msgstr "Escolha a direção em que o popup vai abrir"
+
+#: helpers/options.php:202
+msgid "Choose whether the toolbar should cover the page or not."
+msgstr "Escolher se a barra de ferramentas deve cobrir a página ou não."
+
+#: tmpl/default.php:31
+msgid "Close accessibility tools"
+msgstr "Fechar ferramentas de acessibilidade"
+
+#: tmpl/default.php:173 tmpl/toolbar.php:165
+msgid "Content scaling"
+msgstr "Ampliação de conteúdos"
+
+#: tmpl/toolbar.php:12
+msgid "Contrast"
+msgstr "Contraste"
+
+#: helpers/options.php:62
+msgid "Custom position (static)"
+msgstr "Posição personalizada (estática)"
+
+#: helpers/options.php:91
+msgid "Dark"
+msgstr "Escuro"
+
+#: tmpl/default.php:69 tmpl/default.php:73 tmpl/toolbar.php:41 
+#: tmpl/toolbar.php:45
+msgid "Dark contrast"
+msgstr "Contraste escuro"
+
+#: tmpl/default.php:176 tmpl/toolbar.php:147
+msgid "Decrease content size"
+msgstr "Diminuir tamanho de conteúdo"
+
+#: tmpl/default.php:198 tmpl/toolbar.php:178
+msgid "Decrease font size"
+msgstr "Diminuir tamanho de letra"
+
+#: tmpl/default.php:242 tmpl/toolbar.php:234
+msgid "Decrease letter spacing"
+msgstr "Diminuir espaço entre carateres"
+
+#: tmpl/default.php:220 tmpl/toolbar.php:201
+msgid "Decrease line height"
+msgstr "Diminuir altura de linha"
+
+#: helpers/options.php:28 helpers/helper.php:19
+msgid "DJ-Accessibility"
+msgstr "DJ-Accessibility"
+
+#. Name of the plugin
+msgid "DJ-Accessibility Pro"
+msgstr "DJ-Accessibility Pro"
+
+#. Author of the plugin
+msgid "DJ-Extensions.com"
+msgstr "DJ-Extensions.com"
+
+#: helpers/options.php:103
+msgid "down"
+msgstr "Para baixo "
+
+#: helpers/options.php:104
+msgid "down left"
+msgstr "Para baixo, esquerda"
+
+#: helpers/options.php:105
+msgid "down right"
+msgstr "Para baixo, direita"
+
+#: tmpl/default.php:195 tmpl/toolbar.php:188
+msgid "Font size"
+msgstr "Tamanho de letra"
+
+#: tmpl/default.php:109 tmpl/default.php:117 tmpl/toolbar.php:81 
+#: tmpl/toolbar.php:89
+msgid "High saturation"
+msgstr "Alta saturação"
+
+#: tmpl/default.php:130 tmpl/default.php:142 tmpl/toolbar.php:103 
+#: tmpl/toolbar.php:115
+msgid "Highlight headings"
+msgstr "Destacar cabeçalhos"
+
+#: tmpl/default.php:121 tmpl/default.php:126 tmpl/toolbar.php:94 
+#: tmpl/toolbar.php:99
+msgid "Highlight links"
+msgstr "Destacar ligações"
+
+#. Author URI of the plugin
+msgid "https://dj-extensions.com"
+msgstr "https://dj-extensions.com"
+
+#. URI of the plugin
+msgid "https://dj-extensions.com/yootheme/dj-accessibility"
+msgstr "https://dj-extensions.com/yootheme/dj-accessibility"
+
+#: tmpl/default.php:183 tmpl/toolbar.php:166
+msgid "Increase content size"
+msgstr " Aumentar tamanho de conteúdo"
+
+#: tmpl/default.php:205 tmpl/toolbar.php:189
+msgid "Increase font size"
+msgstr "Aumentar tamanho de letra"
+
+#: tmpl/default.php:249 tmpl/toolbar.php:253
+msgid "Increase letter spacing"
+msgstr "Aumentar tamanho espaço entre carateres"
+
+#: tmpl/default.php:227 tmpl/toolbar.php:222
+msgid "Increase line height"
+msgstr "Aumentar altura de linha"
+
+#: tmpl/default.php:42 tmpl/default.php:50 tmpl/toolbar.php:14 
+#: tmpl/toolbar.php:22
+msgid "Invert colors"
+msgstr "Inverter cores"
+
+#: includes/cmb2_license.php:140
+msgid "Key removed."
+msgstr "Chave de licença removida."
+
+#: includes/cmb2_license.php:136
+msgid "Key saved."
+msgstr "Chave de licença guardada."
+
+#: helpers/options.php:78
+msgid "Layout"
+msgstr "Visual"
+
+#: helpers/options.php:106 helpers/options.php:129 helpers/options.php:150 
+#: helpers/options.php:185
+msgid "left"
+msgstr "Esquerda"
+
+#: tmpl/default.php:239 tmpl/toolbar.php:252
+msgid "Letter spacing"
+msgstr "Espaço entre carateres"
+
+#: helpers/options.php:35
+msgid "License key"
+msgstr "Chave de licença"
+
+#: helpers/options.php:92
+msgid "Light"
+msgstr "Claro"
+
+#: tmpl/default.php:77 tmpl/default.php:92 tmpl/toolbar.php:49 
+#: tmpl/toolbar.php:64
+msgid "Light contrast"
+msgstr "Contraste claro"
+
+#: tmpl/default.php:217 tmpl/toolbar.php:221
+msgid "Line height"
+msgstr "Altura de linha"
+
+#: tmpl/default.php:97 tmpl/default.php:105 tmpl/toolbar.php:69 
+#: tmpl/toolbar.php:77
+msgid "Low saturation"
+msgstr "Baixa saturação"
+
+#: helpers/options.php:176
+msgid "Mobile position"
+msgstr "Posição móvel"
+
+#: tmpl/default.php:54 tmpl/default.php:65 tmpl/toolbar.php:26 
+#: tmpl/toolbar.php:37
+msgid "Monochrome"
+msgstr "Monocromático"
+
+#: helpers/options.php:231 helpers/options.php:261
+msgid "Offset left/right"
+msgstr "Desvio esquerda/direita"
+
+#: helpers/options.php:216 helpers/options.php:246
+msgid "Offset top/bottom"
+msgstr "Desvio superior/inferior"
+
+#: tmpl/default.php:13 tmpl/default.php:14 tmpl/default.php:17 
+#: tmpl/default.php:17
+msgid "Open accessibility tools"
+msgstr "Abrir ferramentas de acessibilidade"
+
+#: helpers/options.php:46
+msgid "Open Yootheme Accessibility options"
+msgstr "Opções de Acessibilidade Yootheme abertas"
+
+#: helpers/options.php:68 helpers/options.php:73
+msgid "Popup"
+msgstr "Popup"
+
+#: helpers/options.php:97
+msgid "Popup open direction"
+msgstr "Direção de abertura do popup"
+
+#: helpers/options.php:121 helpers/options.php:144
+msgid "Position"
+msgstr "Posição"
+
+#: helpers/options.php:56
+msgid ""
+"Position sticky means that the panel stays in the same place even if the "
+"page is scrolled. Custom position requires DJ-Accessibility widget or custom "
+"HTML code on the page:"
+msgstr ""
+"A posição colante significa que o painel fica no mesmo sítio mesmo que a "
+"página seja deslizada para baixo. A posição personalizada requer o módulo DJ-"
+"Accessibility ou código HTML personalizado na página: "
+
+#: helpers/options.php:55
+msgid "Position type"
+msgstr "Tipo de posição"
+
+#: includes/cmb2_license.php:140
+msgid "Provide key."
+msgstr "Forneça a sua chave de licença para obter atualizações"
+
+#: tmpl/default.php:158 tmpl/default.php:168 tmpl/toolbar.php:131 
+#: tmpl/toolbar.php:141
+msgid "Read mode"
+msgstr "Modo de leitura"
+
+#: helpers/options.php:201
+msgid "Reserve space"
+msgstr "Reservar espaço"
+
+#: tmpl/default.php:26 tmpl/toolbar.php:264 tmpl/toolbar.php:268
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: helpers/options.php:107 helpers/options.php:130 helpers/options.php:151 
+#: helpers/options.php:186
+msgid "right"
+msgstr "direita"
+
+#: includes/cmb2_license.php:40
+msgid "Save"
+msgstr "Guardar"
+
+#: tmpl/toolbar.php:144
+msgid "Scaling"
+msgstr "Escalar"
+
+#: tmpl/default.php:146 tmpl/default.php:154 tmpl/toolbar.php:119 
+#: tmpl/toolbar.php:127
+msgid "Screen reader"
+msgstr "Leitor de ecrã"
+
+#: helpers/options.php:217 helpers/options.php:247
+msgid "Space above and below the panel."
+msgstr "Espaço acima e abaixo do painel."
+
+#: helpers/options.php:232 helpers/options.php:262
+msgid "Space to the left or right of the panel."
+msgstr "Espaço à esquerda ou à direita do painel."
+
+#: helpers/options.php:61
+msgid "Sticky (fixed)"
+msgstr "Colante (fixo)"
+
+#: tmpl/toolbar.php:92
+msgid "Text"
+msgstr "Texto"
+
+#: helpers/options.php:177
+msgid "The panel position will be changed for mobile devices (< 767px)"
+msgstr "A posição do painel será alterada para dispositivos móveis (< 767px)"
+
+#: helpers/options.php:86
+msgid "Theme"
+msgstr "Tema"
+
+#: helpers/options.php:69
+msgid "Toolbar"
+msgstr "Barra de ferramentas"
+
+#: helpers/options.php:126 helpers/options.php:149 helpers/options.php:182
+msgid "top"
+msgstr "Superior"
+
+#: helpers/options.php:127 helpers/options.php:183
+msgid "top left"
+msgstr "Superior, esquerda"
+
+#: helpers/options.php:128 helpers/options.php:184
+msgid "top right"
+msgstr "Superior, direita"
+
+#: helpers/options.php:108
+msgid "up"
+msgstr "Para cima"
+
+#: helpers/options.php:109
+msgid "up left"
+msgstr "Para cima, esquerda"
+
+#: helpers/options.php:110
+msgid "up right"
+msgstr "Para cima, direita"
+
+#: helpers/options.php:163
+msgid "Use mobile position"
+msgstr "Usar a posição móvel"

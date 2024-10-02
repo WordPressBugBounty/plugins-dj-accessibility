@@ -1,0 +1,35 @@
+
+.option-djacc_options.cmb2-options-page .cmb2-metabox>.cmb-row {
+	padding: 2em;
+}
+
+.option-djacc_options.cmb2-options-page.wrap>h2 {
+	color: #2D79FF;
+	font-weight: bold;
+}
+
+.option-djacc_options.cmb2-options-page .cmb-th label {
+	font-weight: bold;
+}
+
+.dashicons.djacc-spin {
+	animation: dashicons-spin 1s infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes dashicons-spin {
+	0% {
+		transform: rotate( 0deg );
+	}
+	100% {
+		transform: rotate( 360deg );
+	}
+}
+
+.djacc-license.djacc-license-saved #djacc_dlid_key {
+	border-color: #008000;
+}
+
+.djacc-license.djacc-no-license #djacc_dlid_key {
+	border-color: #ffa500;
+}

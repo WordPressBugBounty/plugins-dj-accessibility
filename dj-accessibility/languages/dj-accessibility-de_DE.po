@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: DJ-Accessibility\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-03 09:51+0100\n"
+"PO-Revision-Date: 2022-05-26 10:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-6.0"
+
+#. Description of the plugin
+msgid "Accessibility plugin for WordPress"
+msgstr "Barrierefreiheits-Plugin für WordPress"
+
+#: tmpl/default.php:25
+msgid "Accessibility Tools"
+msgstr "Eingabehilfen öffnen"
+
+#: tmpl/default.php:31
+msgid "Close accessibility tools"
+msgstr "Eingabehilfen schließen"
+
+#: tmpl/default.php:173 tmpl/toolbar.php:165
+msgid "Content scaling"
+msgstr "Inhaltsskalierung"
+
+#: tmpl/toolbar.php:12
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: tmpl/default.php:69 tmpl/default.php:73 tmpl/toolbar.php:41 
+#: tmpl/toolbar.php:45
+msgid "Dark contrast"
+msgstr "Dunkler Kontrast"
+
+#: tmpl/default.php:176 tmpl/toolbar.php:147
+msgid "Decrease content size"
+msgstr "Inhaltsgröße verringern"
+
+#: tmpl/default.php:198 tmpl/toolbar.php:178
+msgid "Decrease font size"
+msgstr "Schriftgröße verringern"
+
+#: tmpl/default.php:242 tmpl/toolbar.php:234
+msgid "Decrease letter spacing"
+msgstr "Buchstabvenabstand verringern"
+
+#: tmpl/default.php:220 tmpl/toolbar.php:201
+msgid "Decrease line height"
+msgstr "Zeilenhöhe verringern"
+
+#: helpers/options.php:24 helpers/helper.php:11
+msgid "DJ-Accessibility"
+msgstr "DJ-Accessibility"
+
+#. Name of the plugin
+msgid "DJ-Accessibility Pro"
+msgstr "DJ-Accessibility Pro"
+
+#. Author of the plugin
+msgid "DJ-Extensions.com"
+msgstr "DJ-Extensions.com"
+
+#: tmpl/default.php:195 tmpl/toolbar.php:188
+msgid "Font size"
+msgstr "Schriftgröße"
+
+#: tmpl/default.php:109 tmpl/default.php:117 tmpl/toolbar.php:81 
+#: tmpl/toolbar.php:89
+msgid "High saturation"
+msgstr "Hohe Sättigung"
+
+#: tmpl/default.php:130 tmpl/default.php:142 tmpl/toolbar.php:103 
+#: tmpl/toolbar.php:115
+msgid "Highlight headings"
+msgstr "Überschriften hervorheben"
+
+#: tmpl/default.php:121 tmpl/default.php:126 tmpl/toolbar.php:94 
+#: tmpl/toolbar.php:99
+msgid "Highlight links"
+msgstr "Links hervorheben"
+
+#. Author URI of the plugin
+msgid "https://dj-extensions.com"
+msgstr "https://dj-extensions.com"
+
+#. URI of the plugin
+msgid "https://dj-extensions.com/yootheme/dj-accessibility"
+msgstr "https://dj-extensions.com/yootheme/dj-accessibility"
+
+#: tmpl/default.php:183 tmpl/toolbar.php:166
+msgid "Increase content size"
+msgstr "Inhaltsgröße erhöhen"
+
+#: tmpl/default.php:205 tmpl/toolbar.php:189
+msgid "Increase font size"
+msgstr "Schriftgröße vergrößern"
+
+#: tmpl/default.php:249 tmpl/toolbar.php:253
+msgid "Increase letter spacing"
+msgstr "Buchstabenabstand erhöhen"
+
+#: tmpl/default.php:227 tmpl/toolbar.php:222
+msgid "Increase line height"
+msgstr "Zeilenhöhe vergrößern"
+
+#: tmpl/default.php:42 tmpl/default.php:50 tmpl/toolbar.php:14 
+#: tmpl/toolbar.php:22
+msgid "Invert colors"
+msgstr "Farben umkehren"
+
+#: includes/cmb2_license.php:139
+msgid "Key removed."
+msgstr "Lizenzschlüssel entfernt."
+
+#: includes/cmb2_license.php:135
+msgid "Key saved."
+msgstr "Lizenzschlüssel gespeichert."
+
+#: tmpl/default.php:239 tmpl/toolbar.php:252
+msgid "Letter spacing"
+msgstr "Buchstabenabstand"
+
+#: tmpl/default.php:77 tmpl/default.php:92 tmpl/toolbar.php:49 
+#: tmpl/toolbar.php:64
+msgid "Light contrast"
+msgstr "Heller Kontrast"
+
+#: tmpl/default.php:217 tmpl/toolbar.php:221
+msgid "Line height"
+msgstr "Zeilenhöhe"
+
+#: tmpl/default.php:97 tmpl/default.php:105 tmpl/toolbar.php:69 
+#: tmpl/toolbar.php:77
+msgid "Low saturation"
+msgstr "Niedrige Sättigung"
+
+#: tmpl/default.php:54 tmpl/default.php:65 tmpl/toolbar.php:26 
+#: tmpl/toolbar.php:37
+msgid "Monochrome"
+msgstr "Monochrom"
+
+#: tmpl/default.php:13 tmpl/default.php:14 tmpl/default.php:17 
+#: tmpl/default.php:17
+msgid "Open accessibility tools"
+msgstr "Eingabehilfen öffnen"
+
+#: includes/cmb2_license.php:139
+msgid "Provide key."
+msgstr "Geben Ihren Lizenzschlüssel ein"
+
+#: tmpl/default.php:158 tmpl/default.php:168 tmpl/toolbar.php:131 
+#: tmpl/toolbar.php:141
+msgid "Read mode"
+msgstr "Lesemodus"
+
+#: tmpl/default.php:26 tmpl/toolbar.php:264 tmpl/toolbar.php:268
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: includes/cmb2_license.php:39
+msgid "Save"
+msgstr "Speichern"
+
+#: tmpl/toolbar.php:144
+msgid "Scaling"
+msgstr "Skalierung"
+
+#: tmpl/default.php:146 tmpl/default.php:154 tmpl/toolbar.php:119 
+#: tmpl/toolbar.php:127
+msgid "Screen reader"
+msgstr "Bildschirmleser"
+
+#: tmpl/toolbar.php:92
+msgid "Text"
+msgstr "Text"
