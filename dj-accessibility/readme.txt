@@ -3,8 +3,8 @@ Contributors: PixelEmu
 Tags: accessibility, wcag, ada, section 508, web content accessibility
 Requires at least: 5.5
 Requires PHP: 5.6
-Tested up to: 6.4.2
-Stable tag: 1.11
+Tested up to: 6.9
+Stable tag: 1.14
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,20 @@ Additional features available in the version Pro
 3. Click Activate to activate the plugin.
 
 == Changelog ==
+= 1.15 =
+(+) Added possibility to disable displaying plugin on mobile devices
+(+) Added option to change mobile breakpoint resolution
+
+= 1.14 =
+(+) Added Italian language pack (Joomla!)
+(+) Added Greece language pack (Joomla!)
+(!) Fixed missleading label in Yootheme related to mobile position type
+(!) Fixed the problem with wrong button custom image path (WordPress)
+
+= 1.13 =
+(!) Fixed deprecated warning related to htmlspecialchars on PHP8 (Joomla!)
+(!) Font sizes are now recalculated when windows size changes
+(!) JavaScript optimizations
 
 = 1.12 =
 (+) Added support for Joomla 5 (Joomla)

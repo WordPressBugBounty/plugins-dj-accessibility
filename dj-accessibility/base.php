@@ -125,6 +125,13 @@ if ( !class_exists ( 'DJAccessibility' ) ) {
 
 			$plugin_type = DJAcc::pluginType();
 
+			$mobile = DJAcc::getParam('mobile', true);
+			$breakpoint = DJAcc::getParam('breakpoint', '767') ?: 767;
+
+			if(!$mobile) {
+				wp_add_inline_style('djacc-style','@media(max-width: ' . $breakpoint - 1 . 'px) { .djacc { display: none !important; }');
+			}
+
 			$options = json_encode(array(
 				'cms'                    => 'wp',
 				'yootheme'               => DJACC_YOOTHEME,
@@ -135,7 +142,7 @@ if ( !class_exists ( 'DJAccessibility' ) ) {
 				'align_position_popup'   => esc_js($align_popup),
 				'align_position_toolbar' => esc_js($align_toolbar),
 				'align_mobile_position'  => esc_js($align_mobile_position),
-				'breakpoint'             => '767px',
+				'breakpoint'             => $breakpoint,
 				'direction'              => esc_js($direction),
 				'space'                  => esc_js($space),
 				'version'                => esc_js($plugin_type),

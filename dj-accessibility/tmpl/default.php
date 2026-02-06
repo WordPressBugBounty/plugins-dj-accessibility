@@ -6,7 +6,7 @@ $position = ' djacc--' . $positionParam;
 $alignParam = DJAcc::getParam('align_popup', 'top right');
 $directionParam = DJAcc::getParam('direction', 'top left');
 $align = ( 'custom' == $positionParam ) ? ' djacc--' . str_replace(' ', '-', $directionParam) : ' djacc--' . str_replace(' ', '-', $alignParam);
-$customBtn = DJAcc::getParam('image', false);
+$customBtn = DJAcc::getImage('image', false);
 $custom_links = (array) DJAcc::getParam('custom_links');
 ?>
 <section class="djacc djacc-container djacc-popup djacc--hidden<?php echo esc_attr($style . $position . $align); ?>">

@@ -24,7 +24,7 @@
 				},
 				"djacc_mobile_position": {
 					"type": "select",
-					"label": "Position type",
+					"label": "Mobile position type",
 					"options": {
 						"Sticky (fixed)": "sticky",
 						"Custom position (static)": "custom"

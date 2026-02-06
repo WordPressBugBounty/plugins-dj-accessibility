@@ -289,6 +289,28 @@ function djacc_register_options_metabox() {
 		) );
 	}
 
+		$cmb->add_field( array(
+		'name'             => esc_html__('Display on mobile', 'dj-accessibility'),
+		'id'               => 'djacc_mobile',
+		'type'             => 'select',
+		'default'          => '1',
+		'options'          => array(
+			'1'  => esc_html__( 'Yes', 'dj-accessibility' ),
+			'0' => esc_html__( 'No', 'dj-accessibility' ),
+		),
+	) );
+
+	$cmb->add_field( array(
+			'name'    => esc_html__('Mobile breakpoint', 'dj-accessibility'),
+			'desc'    => esc_html__('Resolution at which the layout will be switched to mobile', 'dj-accessibility'),
+			'id'      => 'djacc_breakpoint',
+			'default' => '767',
+			'type'    => 'text_small',
+			'attributes'    => array(
+				'type' => 'number',
+			),
+		) );
+
 	$cmb->add_field( array(
 		'name'    => esc_html__('[Popup] Button', 'dj-accessibility'),
 		'id'      => 'djacc_image',

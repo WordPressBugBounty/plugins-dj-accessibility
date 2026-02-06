@@ -64,6 +64,18 @@ class DJAcc {
 		}
 	}
 
+	public static function getImage($param, $default = null) {
+		$image = self::getParam($param, null);
+		if(!empty($image)) {
+			$image = str_replace(get_site_url(), '', $image);
+			$image = str_replace('http://', '', $image);
+			$image = str_replace('https://', '', $image);
+			$image = get_site_url() . '/' . $image;
+			return $image;
+		}
+		return $default;
+	}
+
 	public static function getLayout( $layout ) {
 
 		if( 'toolbar' == $layout ) {
